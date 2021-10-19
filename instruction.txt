@@ -1,0 +1,8 @@
+window command run ==> npm i -g create-react-app
+folder cmd ==> create-react-app firstapp
+
+to open file live in brrower first open cmd and run: npm start
+
+to make todo app in js
+
+add delete edit delete all
